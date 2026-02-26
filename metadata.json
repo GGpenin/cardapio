@@ -1,0 +1,5 @@
+{
+  "name": "SaaS Digital Menu",
+  "description": "A SaaS application for creating digital menus with QR codes for restaurants.",
+  "requestFramePermissions": []
+}
